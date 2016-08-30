@@ -1,7 +1,6 @@
 {
   "name": "LightLife Style",
   "version": "1.1.0",
-  "description": "Web application that encourages users to be more physically active by suggesting workout activities",
   "author": "Hadeel Khawaldeh",
   "license": "UNLICENSED",
   "scripts": {
