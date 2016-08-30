@@ -6,6 +6,8 @@
   "author": "Hadeel Khawaldeh",
   "license": "UNLICENSED",
   "scripts": {
+    "postinstall" : "npm install -g live-server",
+    "start": "live-server --open=./index.html"
   },
   "dependencies": {
     "bootstrap": "^4.0.0-alpha.2",
