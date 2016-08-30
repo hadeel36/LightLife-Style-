@@ -1,0 +1,135 @@
+@import url("http://netdna.bootstrapcdn.com/bootstrap/3.0.0-rc2/css/bootstrap-glyphicons.css");
+
+#app{
+  background-color: #660000;
+  margin: 30px;
+  width: 1380px;
+  height: 1100px;
+  -moz-box-shadow:  0px 0px 15px 8px rgb(189, 54, 54);
+  -webkit-box-shadow:  0px 0px 15px 8px rgb(189, 54, 54);
+  box-shadow:  0px 0px 15px 8px rgb(189, 54, 54);
+
+}
+body {
+  background: black;
+}
+
+.navbar {
+  background: #fff;
+  margin-bottom: 20px;
+}
+
+.navbar img {
+  height: 40px;
+  width: 50px;
+}
+
+.search-bar {
+  border-radius: 1px;
+  background: #fff;
+}
+
+.search-bar .form-control {
+  border-radius: 2px;
+  width: 80%
+}
+.search-bar .btn {
+  border-radius: 2px;
+  border-color: #d3d3d3;
+  background: #f8f8f8;
+  width: 20%;
+  margin-left: -1px;
+}
+
+.search-bar .btn:hover {
+  border-color: #c6c6c6;
+  background: #f0f0f0;
+  box-shadow: 0 1px 0 rgba(0,0,0,0.10);
+}
+
+.video-player-details {
+  color:  #000;
+  padding: 8px;
+  border: 0;
+  box-shadow: 0 1px 2px rgba(0,0,0,.1);
+  margin-top: 10px;
+}
+
+.video-list {
+  color: #000;
+  padding: 8px;
+  border: 0;
+  box-shadow: 0 1px 2px rgba(0,0,0,.1);
+}
+
+.video-list-entry {
+  font-size: 16px;
+  padding: 8px;
+}
+
+.video-list-entry-title {
+  font-weight: bold;
+}
+
+.video-list-entry-title:hover {
+  color: #e62117;
+  cursor: pointer;
+}
+
+.video-list-entry-detail {
+  font-size: 12px;
+  color: #999;
+}
+
+.col-md-7{
+
+  right:13%;
+  position: absolute;
+  width: 45%;
+  top: 335px ;
+  color: black;
+  font-weight: bold;
+
+}
+
+.my-logo{
+  width: 200px;
+  height: 200px;
+
+}
+
+.main{
+  top:200px;
+}
+
+.activity{
+  color: black;
+}
+
+.outdoor{
+  color: black;
+}
+
+.indoor{
+  color: black;
+}
+
+.dance{
+  color: black;
+}
+
+.other{
+  color: black;
+}
+
+h4:active{
+  font-weight: bold;
+}
+
+h4:hover{
+  font-weight: bold;
+}
+
+.start{
+  text-align: center;
+}
